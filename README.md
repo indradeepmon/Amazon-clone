@@ -1,2 +1,2 @@
 # Amazon-clone
-This is our clone of Amazon
+This is our AMAZON CLONE
